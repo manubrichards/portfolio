@@ -103,7 +103,7 @@ import {
       iconBg: "#383E56",
       date: "November 2023 - October 2024",
       points: [
-        "Analyzed and fi xed performance issues on the app's front-end, optimizing loading times through code refactoring and image compression techniques, leading to an increase in user retention rates.",
+        "Analyzed and fixed performance issues on the app's front-end, optimizing loading times through code refactoring and image compression techniques, leading to an increase in user retention rates.",
         "Contributed to improve a high-performance SPA using React and Redux enhancing user engagement by 20% and improving navigation speed by 30%.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
       ],
@@ -127,7 +127,7 @@ import {
       iconBg: "#383E56",
       date: "June 2021 – October 2021",
       points: [
-        "Led end-to-end design, development and deployment of an MVP for fi ntech.",
+        "Led end-to-end design, development and deployment of an MVP for fintech.",
         "Developed landing page utilizing typescript and React that effectively communicated the product vision.",
         "Played a pivotal role in transforming conceptual ideas into tangible products, contributing to the successful launch of the fi ntech project.",
       ],
